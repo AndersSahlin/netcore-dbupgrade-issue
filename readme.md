@@ -1,0 +1,1 @@
+To initiate a migration, check the connection string in `Web\Startup.cs` and run `&.\migrate.ps1` in a PowerShell terminal.
